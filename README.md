@@ -15,13 +15,13 @@ Firstly, clone the repository.
 Then, change directories into the newly cloned repository:
 
 ```
-$ cd encrypsure
+cd encrypsure
 ```
 
 Finally, using [pip](https://pip.pypa.io/en/stable/), install the application dependencies:
 
 ```
-$ pip3 install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ---
@@ -31,7 +31,7 @@ $ pip3 install -r requirements.txt
 To run the application:
 
 ```
-$ python3 project.py [-h] [-c] [-e] [-d] [-ap] [-a] [service] [username]
+python3 project.py [-h] [-c] [-e] [-d] [-ap] [-a] [service] [username]
 ```
 
 <br>
@@ -39,5 +39,5 @@ $ python3 project.py [-h] [-c] [-e] [-d] [-ap] [-a] [service] [username]
 For further help running the application:
 
 ```
-$ python3 project.py --help
+python3 project.py --help
 ```
