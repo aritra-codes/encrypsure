@@ -15,7 +15,7 @@ You must have [python](https://www.python.org/) installed to run this applicatio
 Firstly, clone the repository.
 
 ```
-git clone https://github.com/Aritra587/encrypsure.git
+git clone https://github.com/aritra-codes/encrypsure.git
 ```
 
 Then, change directories into the newly cloned repository:
